@@ -1,4 +1,4 @@
-# Noughts_and_Crosses
+<h1 align="center">🛡 Noughts & Crosses ⚔️</h1>
 
 ## Game Rules
 
