@@ -44,3 +44,14 @@ I want the game to tell me i have won if i get three in a row.
 3 | 4 | 5     
 6 | 7 | 8   
 
+## Quickstart
+
+First, clone this repository. Then:
+
+```bash
+> cd noughts_and_crosses
+
+# To start the server at localhost:3000
+> npm start
+```
+------
