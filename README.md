@@ -37,28 +37,10 @@ I should not be able to pick a field that is already claimed.
 as a player
 I want the game to tell me i have won if i get three in a row.
 
-as a player
-I want the game to end in a draw if all fields are taken.
 ```
 
-## Class Diagram (UML)
-### Objects:
-- Player
-- Game
-
-### Messages:
-- move(field)
-- endTurn
-- isValidMove
-- isWinner
-- isDraw
-- isGameOver
-
-### Data storage
-
-1 | 2 | 3  
+0 | 1 | 2  
 --|---|--  
-4 | 5 | 6     
-7 | 8 | 9   
+3 | 4 | 5     
+6 | 7 | 8   
 
-fields = [1, 2, 3, 4, 5, 6, 7, 8, 9]
