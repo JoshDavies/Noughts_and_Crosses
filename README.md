@@ -1,5 +1,7 @@
 <h1 align="center">🛡 Noughts & Crosses ⚔️</h1>
 
+# React.js tutorial completed
+
 ## Game Rules
 
 - There are two players in the game (X and O)
